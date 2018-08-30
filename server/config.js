@@ -36,6 +36,10 @@ const CONF = {
         // 文件夹
         uploadFolder: ''
     },
+    // 其他配置 ...
+    serverHost: 'wechat.gavinle.com',
+    tunnelServerUrl: 'https://tunnel.ws.qcloud.la',
+    tunnelSignatureKey: '27fb7d1c161b7ca52d73cce0f1d833f9f5b5ec89',
 
     // 微信登录态有效期
     wxLoginExpires: 7200,
